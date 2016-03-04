@@ -8,7 +8,7 @@ Visualize a graph based on a set of input
 
 ![alt tag](https://raw.githubusercontent.com/jermwatt/spectral-clustering-demo/master/demo-images/smiley_graph.jpg)
 
-![alt tag](https://raw.githubusercontent.com/jermwatt/spectral-clustering-demo/master/demo-images/smiley-comparison.jpg)
+![alt tag](https://raw.githubusercontent.com/jermwatt/spectral-clustering-demo/master/demo-images/smiley_comparison.jpg)
 ![alt tag](https://raw.githubusercontent.com/jermwatt/spectral-clustering-demo/master/demo-images/smiley_graph.jpg)
 ![alt tag](https://raw.githubusercontent.com/jermwatt/spectral-clustering-demo/master/demo-images/smiley_graph.jpg)
 ![alt tag](https://raw.githubusercontent.com/jermwatt/spectral-clustering-demo/master/demo-images/smiley_graph.jpg)

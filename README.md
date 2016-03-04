@@ -4,14 +4,15 @@ A fun review of spectral clustering with MATLAB demos I made for the NU machine 
 
 Some cool figures shown in the writeup - that you can also reproduce using the associated code include:
 
-Visualize a graph, with adjacency matrix of your choice, based on a set of input points
+Visualize a graph, with adjacency matrix of your choice from nearest neighbor / gaussian weighting, based on a set of input points
 
 ![alt tag](https://raw.githubusercontent.com/jermwatt/spectral-clustering-demo/master/demo-images/smiley_graph.jpg)
-
-![alt tag](https://raw.githubusercontent.com/jermwatt/spectral-clustering-demo/master/demo-images/smiley_comparison.jpg)
-
-
 ![alt tag](https://raw.githubusercontent.com/jermwatt/spectral-clustering-demo/master/demo-images/beach_graph.jpg)
 ![alt tag](https://raw.githubusercontent.com/jermwatt/spectral-clustering-demo/master/demo-images/connected_rings.jpg)
+
+
+![alt tag](https://raw.githubusercontent.com/jermwatt/spectral-clustering-demo/master/demo-images/smiley_comparison.jpg)
+![alt tag](https://raw.githubusercontent.com/jermwatt/spectral-clustering-demo/master/demo-images/beach_comparison.jpg)
+
 ![alt tag](https://raw.githubusercontent.com/jermwatt/spectral-clustering-demo/master/demo-images/smiley_graph.jpg)
 

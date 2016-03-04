@@ -4,5 +4,5 @@ A fun review of spectral clustering with MATLAB demos I made for the NU machine 
 
 Some cool figures shown in the writeup - that you can also reproduce using the associated code:
 
-![alt tag](https://raw.githubusercontent.com/jermwatt/spectral-clustering-demo/demo-images/smiley_graph.jpg)
+![alt tag](https://raw.githubusercontent.com/jermwatt/spectral-clustering-demo/master/demo-images/smiley_graph.jpg)
 

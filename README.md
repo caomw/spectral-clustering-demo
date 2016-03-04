@@ -14,5 +14,5 @@ Then you can easily compare the results of K-means and spectral clustering on th
 
 ![alt tag](https://raw.githubusercontent.com/jermwatt/spectral-clustering-demo/master/demo-images/smiley_comparison.jpg)
 ![alt tag](https://raw.githubusercontent.com/jermwatt/spectral-clustering-demo/master/demo-images/beach_comparison.jpg)
-![alt tag](https://raw.githubusercontent.com/jermwatt/spectral-clustering-demo/master/demo-images/smiley_graph.jpg)
+![alt tag](https://raw.githubusercontent.com/jermwatt/spectral-clustering-demo/master/demo-images/rings_comparison.png)
 

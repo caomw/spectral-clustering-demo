@@ -10,9 +10,9 @@ Visualize a graph, with adjacency matrix of your choice from nearest neighbor / 
 ![alt tag](https://raw.githubusercontent.com/jermwatt/spectral-clustering-demo/master/demo-images/beach_graph.jpg)
 ![alt tag](https://raw.githubusercontent.com/jermwatt/spectral-clustering-demo/master/demo-images/connected_rings.jpg)
 
+Then you can easily compare the results of K-means and spectral clustering on these datasets
+
 ![alt tag](https://raw.githubusercontent.com/jermwatt/spectral-clustering-demo/master/demo-images/smiley_comparison.jpg)
-
 ![alt tag](https://raw.githubusercontent.com/jermwatt/spectral-clustering-demo/master/demo-images/beach_comparison.jpg)
-
 ![alt tag](https://raw.githubusercontent.com/jermwatt/spectral-clustering-demo/master/demo-images/smiley_graph.jpg)
 
